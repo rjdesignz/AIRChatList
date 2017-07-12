@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chat>
+	<person>
+		<name>Rahul Joshi</name>
+		<status>s</status>
+		<msg><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></msg>
+	</person>
+	
+	<person>
+		<name>John Doe</name>
+		<status>r</status>
+		<msg><![CDATA[Nullam sollicitudin massa a mauris volutpat eu dignissim ante dignissim.]]></msg>
+	</person>
+
+	<person>
+          <name>John Doe</name>
+          <status>r</status>
+          <msg><![CDATA[Sed vel mauris quis neque vehicula blandit.]]> </msg>
+     </person>
+
+	<person>
+		<name>Rahul Joshi</name>
+		<status>s</status>
+		<msg><![CDATA[Maecenas non mi est, id luctus arcu.]]></msg>
+	</person>
+	
+	<person>
+		<name>Rahul Joshi</name>
+		<status>s</status>
+		<msg><![CDATA[Aenean volutpat libero at arcu pretium vel venenatis erat rutrum.]]></msg>
+	</person>
+	
+	<person>
+		<name>Rahul Joshi</name>
+		<status>s</status>
+		<msg><![CDATA[Aliquam facilisis enim sed magna eleifend quis cursus velit sollicitudin.]]></msg>
+	</person>
+	
+	<person>
+		<name>John Doe</name>
+		<status>r</status>
+		<msg><![CDATA[Praesent auctor sapien eu enim ultrices non pharetra lectus elementum.]]></msg>
+	</person>
+	
+	<person>
+		<name>Rahul Joshi</name>
+		<status>s</status>
+		<msg><![CDATA[Nullam sollicitudin massa a mauris volutpat eu dignissim ante dignissim.]]></msg>
+	</person>
+	
+	<person>
+		<name>John Doe</name>
+		<status>r</status>
+		<msg><![CDATA[Aliquam facilisis enim sed magna eleifend quis cursus velit sollicitudin.]]></msg>
+	</person>
+	
+	<person>
+		<name>Rahul Joshi</name>
+		<status>s</status>
+		<msg><![CDATA[Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...]]></msg>
+	</person>
+
+
+</chat>

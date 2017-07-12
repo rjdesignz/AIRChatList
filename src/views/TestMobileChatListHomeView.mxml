@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		xmlns:s="library://ns.adobe.com/flex/spark" title="Chat View">
+	<fx:Declarations>
+		<fx:XML id="chatLog" source="log.xml" />
+	</fx:Declarations>
+	
+	<s:List itemRenderer="ListItemRenderer" left="10" top="10" right="10" bottom="10" contentBackgroundAlpha="0">
+		<s:dataProvider>
+			<s:XMLListCollection source="{chatLog.person}" />
+		</s:dataProvider>	</s:List>
+	
+</s:View>
